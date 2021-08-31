@@ -1,4 +1,13 @@
-.App {
+.app {
+  color: #282c34;
+  margin: 50px 20px;
+}
+
+.item {
+  margin: 10px;
+}
+
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +44,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
